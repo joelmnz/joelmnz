@@ -17,7 +17,7 @@ Hi, I'm a dev clocking almost 25yrs in the industry and still enjoying it 😸
 
 ### My Fav tools (for now)
 - Rider IDE - beats VS & VS Code
-- aider.chat - my fav 🤖 AI coding assistant
+- [aider.chat](https://github.com/Aider-AI/aider) - my fav 🤖 AI coding assistant
 - Flowise - great for quick custom AI pipelines
-- big-agi - great chat interface
+- [big-agi](https://github.com/enricoros/big-agi) - great chat interface
 

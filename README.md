@@ -1,5 +1,7 @@
 Hi, I'm a dev clocking almost 25yrs in the industry and still enjoying it 😸
 
+> Code is the new "dumb" thing, prompts that write code is the new "smart" thing (until Agent Smith takes over 😉)
+
 ### Things I've been involved with
 
 - Enterprise Platform Development & Deployment

@@ -1,25 +1,30 @@
-Hi, I'm a dev clocking almost 25yrs in the industry and still enjoying it 😸
+# Senior Developer | 25+ Years of Experience | Full Stack Enterprise AI & Automation Expert 😸
 
-> Code is the new "dumb" thing, prompts that write code is the new "smart" thing (until Agent Smith takes over 😉)
+> "Code is the new 'dumb' thing; agents that write code are the new 'smart' thing (until Agent Smith takes over 😎😉)"
 
-### Things I've been involved with
+### Key Expertise & Contributions
 
-- Enterprise Platform Development & Deployment
-- Enterprise AI integration for a large ERP
-- Created an Automation Framework (AFX) for UI testing (record instructions from UI and playback with UnitTest)
-- Code & Database performance tuning/profiling (c#, vb.net, typescript, MSSQL)
-- GitHub integration for our custom development pipelines
-- Interal applciation development - Helps our team spin up new environments, test code, AI chat and more
-- Auto update systems/applications for build pipelines and desktop apps
-- Build & Automation Pipelines in ADO & GitHub
-- SonarQube - admin, config & support
-- Dotnet on Linux development
-- Custom AI projects and tools
-- Training and support - code, infrastructure, AI
+- **Enterprise Development & Automation**  
+  - Platform development and deployment  
+  - Build & automation pipelines (Azure DevOps & GitHub) with custom integrations  
+  - Auto-update systems for build pipelines and desktop apps  
 
-### My Fav tools (for now)
-- Rider IDE - beats VS & VS Code
-- [aider.chat](https://github.com/Aider-AI/aider) - my fav 🤖 AI coding assistant
-- Flowise - great for quick custom AI pipelines
-- [big-agi](https://github.com/enricoros/big-agi) - great chat interface
+- **🤖 AI & Custom Tools**  
+  - Enterprise AI integration for large ERP systems  
+  - Developed custom AI projects and tools  
+  - Internal applications for environment setup, testing, AI chat, and more  
+  - `select * from AI where isHelpful` ✨
 
+- **Testing & Quality Assurance**  
+  - Created Automation Framework (AFX) for UI testing (record/playback with UnitTest)  
+  - SonarQube administration, configuration, and support  
+
+- **Performance & Optimization**  
+  - Code and database performance tuning/profiling (C#, VB.NET, TypeScript, MSSQL)  
+
+- **Industry-Specific Solutions**  
+  - Manufacturing: Custom MRP system for boat manufacturing  
+  - Kiwifruit industry: Fruit quality control software, printer and PCL integrations and more  
+
+- **Training & Support**  
+  - Developer training and support across code, infrastructure, AI, and testing  

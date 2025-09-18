@@ -1,6 +1,4 @@
-# Senior Developer | 25+ Years of Experience | Full Stack Enterprise AI & Automation Expert 😸
-
-> "Code is the new 'dumb' thing; agents that write code are the new 'smart' thing (until Agent Smith takes over 😎😉)"
+# Senior Software Developer | 20+ Years of Experience | Full Stack Enterprise AI & Automation Expert 😸
 
 ### Key Expertise & Contributions
 
